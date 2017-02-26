@@ -1,0 +1,2 @@
+# OnceForm
+一个防止表单重复提交的小程序，form.html中使用了JavaScript的方式在客户端中实现了防止表单重复提交的功能。servlet中使用了session在服务端中实现了防止表单重复提交的功能
